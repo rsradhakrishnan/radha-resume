@@ -1,0 +1,22 @@
+# Jobs
+# VP of Global Communications
+- company: School of Business, George Mason University
+  position: Data Scientist
+  duration: Oct, 2021 &mdash; Present
+  summary: <ul class="resume-item-list"><li><b> Design and Implement ETL pipelines</b> -  Developed and implemented data pipelines and ETL processes for ingesting and processing large amounts of Business data from AWS S3 storage. </li>
+            <li><b>Data Cleaning and Feature Engineering</b> - Performed data cleaning, pre-processing tasks such as handling
+            missing values, removing duplicates, and correcting data errors, and implemented validation checks to ensure
+            data quality and consistency.</li>
+            <li><b>Research and Analysis on Business Reports</b> - Applied advanced natural language processing techniques to
+            analyze EDGAR 10-K & 10-Q business reports of various companies, including text classification, named entity
+            recognition & text summarization using custom trained BERT and Transformers. </li></ul>
+
+- company: College of Education and Human Development, <br> George Mason University
+  position: Graduate Research Assistant
+  duration:  Jun, 2010 &mdash; Sept, 2013
+  summary: <ul class="resume-item-list"><li><b> Teaching Assistance </b> -   Providing assistance in setting up the environment and delivering the weekly content for
+            Praxis Certification Exam and AWS Cloud Practitioner Certification. </li>
+            <li><b>Research on Education Methodologies</b> -Verifying existing educational methodologies with Machine
+            Learning algorithms on large datasets and formulate statistical conclusions on them.
+            data quality and consistency.</li>
+            </ul>

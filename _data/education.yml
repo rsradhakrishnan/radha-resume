@@ -1,0 +1,15 @@
+# Degree
+- degree: Masters in Computer Science
+  concentration: Concentration in Machine Learning
+  uni: George Mason University
+  year: 2021 &mdash; 2023
+  # awards:
+  #   - award: Summa Cumme Laude graduate
+  summary: "Courses: Machine Learning, Natural Language Processing, Massive Data Mining, Artificial Intelligence."
+
+- degree: Bachelors in Computer Science
+  uni: SCSVMV University
+  year: 2017 &mdash; 2021
+  # awards:
+  #   - award: Summa Cumme Laude graduate
+  summary: "Courses: Machine Learning, Natural Language Processing, Massive Data Mining, Artificial Intelligence."
