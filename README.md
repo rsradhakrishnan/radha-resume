@@ -34,4 +34,4 @@ To test locally with docker, run the following in your terminal after installing
 
 
 #### Credits
-This Project is inspired from [@jglovier](https://github.com/jglovier/resume-template)
+Thanks to [@jglovier](https://github.com/jglovier/resume-template) for the creating the template.
